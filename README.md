@@ -11,7 +11,7 @@ To Analyze Avoxi’s cost and revenue structure for virtual phone number service
 
 ### 📂 Dataset
 
-- **Source:** [Link to dataset]
+- **Source:** <a href = 'https://github.com/ikechidiogo19/AVOXI-analysis/blob/main/Copy%20of%20Billing_File_022025(1).xlsx'> Dataset </a>
 - **Format:** Excel.
 ---
 
@@ -29,18 +29,16 @@ To Analyze Avoxi’s cost and revenue structure for virtual phone number service
 - Data Cleaning
 - verify data for any missing values and anomalies and sort out the same.
 - made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 
 ---
 
 ### 📈 Analysis and Visualizations
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-Embed or describe key visuals and what they show.  
-(You can include images like this:)
 
-![Sample Chart](images/sample_chart.png)
+![Screenshot (29)](https://github.com/user-attachments/assets/e8db1ae5-c192-4b9f-ad17-3f5be399b464)
 
 ---
 
