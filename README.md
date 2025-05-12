@@ -35,7 +35,8 @@ To Analyze Avoxi’s cost and revenue structure for virtual phone number service
 
 ### 📈 Analysis and Visualizations
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Merge all pivot tables
+- Created a dynamic power bi dashboard
 
 #### Power bi Viz
 ![av](https://github.com/user-attachments/assets/487ac2b5-56f4-4418-a1b2-4454e0b92a25)
